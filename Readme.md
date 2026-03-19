@@ -29,6 +29,9 @@ L’objectif est de fournir une base solide et testée pour un jeu du Pendu, ave
 
  Cloner le dépôt :
 
+ git clone https://github.com/ibragoat10/pendu-tdd
+cd pendu-tdd
+
  ## Installer les dépendances Composer :
 
  composer install
