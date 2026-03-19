@@ -1,0 +1,12 @@
+# Dépendances Composer
+/vendor/
+composer.lock
+
+# Configuration locale & IDE
+.idea/
+.vscode/
+.phpunit.result.cache
+
+# Fichiers système
+.DS_Store
+Thumbs.db
